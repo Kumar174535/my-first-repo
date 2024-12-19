@@ -1,6 +1,6 @@
 echo Hi kumar
 
-echo -e "\e[31m Hello Kumar\e[0m"
+echo -e "\e[31m \nHello Kumar\e[0m" Red Color
 echo -e "\e[32m Hello kumar\e[0m"
 echo -e "\e[33m Hello kumar\e[0m"
 echo -e "\e[34m Hello kumar\e[0m"
