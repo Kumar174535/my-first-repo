@@ -1,5 +1,5 @@
-echo Hi kumar
-\n
+echo Hi kumar\n
+
 echo -e "\e[31m Hello Kumar\e[0m" - Red Color
 echo -e "\e[32m Hello kumar\e[0m" - Green Color
 echo -e "\e[33m Hello kumar\e[0m" - yellow Color
