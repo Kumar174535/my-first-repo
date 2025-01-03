@@ -1,3 +1,6 @@
-# my-first-repo
+Four pillars of any scripting
 
-Hi this is first git repo
+1. variables
+2. functions
+3. conditions
+4. loops
